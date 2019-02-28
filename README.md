@@ -2,7 +2,7 @@
 ###### PHP wrapper for pesstatsdatabase.com which exposes simple to use, GET api
 \
 This version is hosted at heroku (free account, so please be gentle with the usage)
-**[HERE: https://pes-editor.herokuapp.com ](https://pes-editor.herokuapp.com/index.php)**
+**[HERE:] (https://pes-editor.herokuapp.com) ](https://pes-editor.herokuapp.com/index.php)**
 
 __Usage:__
 Send GET request to index.php with v,t,p or s parameters. Send request without parameters to see usage.
