@@ -34,5 +34,5 @@ __Response:__` Cristiano Ronaldo; 774; Real Madrid CF; 33; `
 
 4) Get player stats  
 __Request:__`index.php?v=6&p=774`  
-__Response:__ plaintext PSD stats for PES6  
+__Response:__ plaintext PSD stats for PES2014 PS2 
 
