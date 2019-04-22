@@ -287,7 +287,10 @@ $teamNames = array(
 477 => "Girona FC",
 478 => "Granada CF",
 480 => "UD Las Palmas",
-482 => "Rayo Vallecano de Madrid"
+482 => "Rayo Vallecano de Madrid",
+501 => "Burnley FC",
+502 => "Cardiff City FC",
+508 => "Leeds United FC"
 );
 
 ?>
