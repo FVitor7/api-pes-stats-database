@@ -290,7 +290,16 @@ $teamNames = array(
 482 => "Rayo Vallecano de Madrid",
 501 => "Burnley FC",
 502 => "Cardiff City FC",
-508 => "Leeds United FC"
+504 => "Crystal Palace FC",
+505 => "Derby County FC",
+507 => "Ipswich Town FC",
+508 => "Leeds United FC",
+509 => "Middlesbrough FC",
+511 => "Norwich City FC",
+512 => "Nottingham Forest FC",
+514 => "Reading FC",
+515 => "Swansea City AFC",
+516 => "Watford"
 );
 
 ?>
