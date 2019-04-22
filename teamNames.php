@@ -301,12 +301,6 @@ $teamNames = array(
 514 => "Reading FC",
 515 => "Swansea City AFC",
 516 => "Watford",
-527 => "CS Concordia Chiajna",
-528 => "CS Mioveni",
-544 => "FC Viitorul",
-630 => "Maccabi Tel Aviv FC",
-
-
 );
 
 ?>
