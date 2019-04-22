@@ -305,26 +305,7 @@ $teamNames = array(
 528 => "CS Mioveni",
 544 => "FC Viitorul",
 630 => "Maccabi Tel Aviv FC",
-642 => "Aldosivi",
-644 => "Atlético de Rafaela",
-645 => "Atlético Tucumán",
-646 => "Belgrano",
-650 => "Defensa y Justicia",
-652 => "Ferro Carril Oeste",
-653 => "Gimnasia Jujuy",
-654 => "Independiente Rivadavia",
-655 => "Instituto",
-656 => "Patronato de Paraná"
-657 => "Rosario Central",
-658 => "San Martín",
-661 => "Unión de Santa Fe",
-664 => "Club Atlas",
-669 => "CF Monterrey",
-670 => "Monarcas Morelia",
-672 => "CF Pachuca",
-673 => "Puebla FC",
-675 => "Querétaro FC",
-677 => "Club Santos Laguna",
+
 
 );
 
