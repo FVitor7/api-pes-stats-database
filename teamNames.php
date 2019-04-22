@@ -325,17 +325,7 @@ $teamNames = array(
 673 => "Puebla FC",
 675 => "Querétaro FC",
 677 => "Club Santos Laguna",
-678 => "Tigres de la UANL",
-679 => "Deportivo Toluca FC",
-680 => "FC Union Berlin",
-683 => "FC Augsburg",
-686 => "FC Ingolstadt",
-687 => "Fortuna Düsseldorf",
-689 => "Hertha BSC Berlin",
-694 => "SpVgg Greuther Fürth",
-696 => "VfL Bochum",
-698 => "AC Ajaccio",
-699 => "Angers SCO"
+
 );
 
 ?>
