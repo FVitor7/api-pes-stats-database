@@ -62,7 +62,7 @@
 		$fix_stats = str_replace("\n\n","\n",preg_replace("(<(.*?)>)is","",preg_replace("(<br>)is","\n",$innerHTML)));
 
 		return str_replace("
-                            ","",$fix_stats);
+                            ","\n",$fix_stats);
 	}
 	
 	function getTeamIds($teamName)
