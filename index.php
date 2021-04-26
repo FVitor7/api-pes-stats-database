@@ -59,8 +59,8 @@
 		foreach ($node->childNodes as $child) 
 			$innerHTML .= $node->ownerDocument->saveHTML($child);
 
-		return str_replace("\n\n","\n",preg_replace("(<(.*?)>)is","",preg_replace("(<br>)is","\n",$innerHTML)),preg_replace("
-                            ",""));
+		return str_replace("\n\n","\n",preg_replace("(<(.*?)>)is","",preg_replace("(<br>)is","\n",$innerHTML)),preg_replace("(
+                            )",""));
 	}
 	
 	function getTeamIds($teamName)
